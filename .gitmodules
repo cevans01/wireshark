@@ -1,0 +1,3 @@
+[submodule "plugins/csp"]
+	path = plugins/csp
+	url = git@github.com:cevans01/libcsp-dissector.git
